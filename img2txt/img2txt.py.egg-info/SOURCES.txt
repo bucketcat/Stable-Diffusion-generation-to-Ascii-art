@@ -1,0 +1,10 @@
+LICENSE
+ansi.py
+graphics_util.py
+img2txt.py
+setup.py
+img2txt.py.egg-info/PKG-INFO
+img2txt.py.egg-info/SOURCES.txt
+img2txt.py.egg-info/dependency_links.txt
+img2txt.py.egg-info/requires.txt
+img2txt.py.egg-info/top_level.txt
