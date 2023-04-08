@@ -15,8 +15,9 @@ git bash,
 openSSL, 
 PIL,
 PIP,
+A computer,
+Electricity
 
-The numpy import is redundant and can be removed.
 
 Example: Image generated, Prompt=Cute pet cat, steps 28
 
