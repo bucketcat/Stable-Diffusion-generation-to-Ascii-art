@@ -20,6 +20,6 @@ The numpy import is redundant and can be removed.
 
 Example: Image generated, Prompt=Cute pet cat, steps 28
 
-https://github.com/bucketcat/Stable-Diffusion-generation-to-Ascii-art/blob/main/exampleCat.png
+![Cute pet cat, steps 28](https://github.com/bucketcat/Stable-Diffusion-generation-to-Ascii-art/blob/main/exampleCat.png)
 
 The ascií-art version of this image: https://github.com/bucketcat/Stable-Diffusion-generation-to-Ascii-art/blob/main/exampleCat.txt
