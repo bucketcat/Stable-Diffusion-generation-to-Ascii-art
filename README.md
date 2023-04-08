@@ -22,4 +22,4 @@ Example: Image generated, Prompt=Cute pet cat, steps 28
 
 ![Cute pet cat, steps 28](https://github.com/bucketcat/Stable-Diffusion-generation-to-Ascii-art/blob/main/exampleCat.png)
 
-The ascií-art version of this image: https://github.com/bucketcat/Stable-Diffusion-generation-to-Ascii-art/blob/main/exampleCat.txt
+The ascií-art version of this image:![Cute pet cat, steps 28](https://github.com/bucketcat/Stable-Diffusion-generation-to-Ascii-art/blob/main/exampleCat.txt)
