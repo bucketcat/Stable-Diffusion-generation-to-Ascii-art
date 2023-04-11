@@ -11,12 +11,11 @@ Dependencies are:
 * Stable Difussion Webui + api access url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API
 
 python 3, 
-git bash, 
+git bash (or any terminal), 
 openSSL, 
 PIL,
 PIP,
-A computer,
-Electricity
+probably a bunch of other stuff I forgot.
 
 
 Example: Image generated, Prompt=Cute pet cat, steps 28
